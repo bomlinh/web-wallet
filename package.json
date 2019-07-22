@@ -1,7 +1,7 @@
 {
-  "name": "YourApp",
+  "name": "Comma",
   "version": "2.0.0",
-  "description": "YourApp with YourCoin",
+  "description": "Comma coin web wallet",
   "private": true,
   "node-main": "./wallet.js",
   "main": "loading.html",
